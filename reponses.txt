@@ -1,0 +1,13 @@
+OBSERVATIONS
+
+- Lʼhistorique des commits.
+
+On voit les deux commits qui ont été fait avec leur nom et la personne qui a fait le commit
+
+- Les modifications dans lʼonglet Commits ou History.
+
+On voit les differrentes lignes modifiées sur le fichier README
+
+- Les différences entre les versions ( Compare changes ).
+
+la ligne 2 du fichier README (qui etait vide) a été remplacée par le texte "ce projet est un test collaboratif sur git hub"
